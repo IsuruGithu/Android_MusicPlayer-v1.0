@@ -11,8 +11,6 @@
 ![Isuru Lakmal](assets/Screenshot%20from%202022-06-18%2014-25-59.png)
 
 
-## :link: **Links**
-- Github page : [Click Here](https://isurugithu.github.io/Game_Assignment/)
 
 ## :link: **Other Links**
 - LinkedIn : [Click Here](http://www.linkedin.com/in/isurulakmal99)
