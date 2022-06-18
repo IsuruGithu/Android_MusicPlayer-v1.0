@@ -7,8 +7,8 @@
 
 ![Isuru Lakmal](assets/Screenshot%20from%202022-06-18%2014-25-59.png)
 ![Isuru Lakmal](assets/Screenshot%20from%202022-06-18%2014-24-23.png)
-![Isuru Lakmal](assets/Screenshot%20from%202022-06-18%2014-25-59.png)
-![Isuru Lakmal](assets/Screenshot%20from%202022-06-18%2014-25-59.png)
+![Isuru Lakmal](assets/Screenshot%20from%202022-06-18%2014-24-43.png)
+![Isuru Lakmal](assets/Screenshot%20from%202022-06-18%2014-23-52.png)
 
 
 
