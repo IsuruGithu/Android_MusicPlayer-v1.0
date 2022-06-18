@@ -1,4 +1,4 @@
-<h1 align="center">This is Fighting Game</h1>
+<h1 align="center">This is Music_Player</h1>
 
 - Used Programming Skills : Java
 
